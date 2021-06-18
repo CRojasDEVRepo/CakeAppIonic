@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cakeappionic",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
