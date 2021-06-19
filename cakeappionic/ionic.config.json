@@ -1,7 +1,0 @@
-{
-  "name": "cakeappionic",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
